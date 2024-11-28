@@ -15,11 +15,11 @@ gwrome { at } gmail (.) com \
 * Subject matter expert for technical scope and commercial content of technology contracts.
 * Developed vendor governance to drive compliance and performance.
 
-## Attorney & Registered Mediator • Williams & Rome, LLC • 2009 – 2019
+### Attorney & Registered Mediator • Williams & Rome, LLC • 2009 – 2019
 
-## Law Clerk • Hon. Kirk A. Vaughn, Louisiana 34th JDC • 2007 – 2018
+### Law Clerk • Hon. Kirk A. Vaughn, Louisiana 34th JDC • 2007 – 2018
 
-## IT Contractor & Software Developer • Straylight Development, LLC • 2002 – 2009
+### IT Contractor & Software Developer • Straylight Development, LLC • 2002 – 2009
 
 # Education
 
