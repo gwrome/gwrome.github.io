@@ -1,3 +1,8 @@
+# Contact Info
+New Orleans, Louisiana, USA \
+gwrome { at } gmail (.) com \
+[LinkedIn](https://www.linkedin.com/in/gregory-rome/)
+
 # Professional Experience
 ## Manager, IT Asset Management • Entergy • 2023–Present
 * Leads software and hardware licensing and maintenance contract practice.
