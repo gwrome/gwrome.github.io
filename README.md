@@ -38,6 +38,7 @@ Capstone: _Outsource and Back Again: An Information Technology Journey_
 * Minor: political science
 
 # Publications
+* [__Civil Law Property Outline & Case Briefs: Keyed to Yiannopoulos' Civil Law Property Coursebook 10th edition__](https://amzn.to/4nDAuiw) (Straylight Publishing, 2025).
 * [__Louisiana Civil Law Dictionary__](https://www.amazon.com/Louisiana-Civil-Dictionary-Gregory-Rome/dp/1610270819) (Quid Pro Books, 2011) (with N. Stephan Kinsella).
 * _A Call for Mediation Casebooks_, presented at the Ludwig von Mises Institute’s Austrian Scholar's Conference, March 2011 (with Gil Guillory).
 * [_An Elegy for Emphyteusis_](./v01i02-Rome.pdf), 1 CIV. L. COMMENT. 2, 1 (2008).
