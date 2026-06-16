@@ -4,10 +4,15 @@ gwrome { at } gmail (.) com \
 [LinkedIn](https://www.linkedin.com/in/gregory-rome/)
 
 # Professional Experience
-## Manager, IT Asset Management • Entergy • 2023–Present
-* Leads software and hardware licensing and maintenance contract practice.
-* Oversees a robust software compliance program.
-* Defends license audits.
+## Senior Counsel, Commercial Transactions • Entergy • 2026-Present
+* Technology transactions
+* Privacy & data security
+* AI enablement, legal technology & ops
+
+## Manager, IT Asset Management • Entergy • 2023–2026
+* Led software and hardware licensing and maintenance contract practice.
+* Oversaw a robust software compliance program.
+* Defended license audits.
 
 ## IT Vendor Alliance Manager • Entergy	• 2019–2023
 * Managed key technology vendors, including software and outsource partners.
