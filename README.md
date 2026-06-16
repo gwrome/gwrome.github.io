@@ -5,7 +5,7 @@ gwrome { at } gmail (.) com \
 
 # Professional Experience
 ## Senior Counsel, Commercial Transactions • Entergy • 2026-Present
-* Strategic echnology transactions
+* Strategic technology transactions
 * Privacy & data security
 * AI enablement, legal technology & ops
 
